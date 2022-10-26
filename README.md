@@ -19,3 +19,5 @@ This report is on global Supply Chain Shipment of Health Commodities between 200
 I used the following visuals to give insights
 
 Smart Cards, Slicer, Line Chart, Clustered Column Chart, Pie Chart, Matrix, Filled Map and Slicer.
+
+![Supply chain image](https://user-images.githubusercontent.com/113190200/197958311-b27024ae-b196-45ea-8c46-22c025064d5d.png)
