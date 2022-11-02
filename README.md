@@ -20,7 +20,8 @@ I used the following visuals to give insights
 
 Smart Cards, Slicer, Line Chart, Clustered Column Chart, Pie Chart, Matrix, Filled Map and Slicer.
 
-Link to the interactive dashboard: https://app.powerbi.com/groups/me/reports/74b092a7-c249-46d2-8531-96293e0d20b9/ReportSection
+Link to the interactive dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiZjI0MjkzZDAtZGFiMi00Yzc4LThjYjUtOGMwMmI2ZWYyNDlkIiwidCI6IjZhNzkyYWQ0LTM1ZDQtNDg1NS05MDBmLWI5YTM1YTk0YTU1YyJ9&pageName=ReportSection
 
 
 ![Supply chain image](https://user-images.githubusercontent.com/113190200/197958311-b27024ae-b196-45ea-8c46-22c025064d5d.png)
